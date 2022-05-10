@@ -1,7 +1,5 @@
 {
-  {{#repeat 3}}
-    "{{add @index 1}}": {
-    "total_pages": 3,
+    "total_pages": 10,
     "data": [
       {{#repeat 10}}
       {
@@ -13,12 +11,10 @@
         "sender_email": "{{email}}",
         "sender_line_user_id": "{{hexColor withHash=false}}{{hexColor withHash=false}}",
         "send_status": "{{int 0 1}}",
-        "complete_flg": "{{int 0 1}}",
+        "complete_flg": "0",
         "created_at": "{{date '2010' '2020' 'YYYY-MM-DD HH:mm:SS'}}",
         "send_at": "{{date '2010' '2020' 'YYYY-MM-DD HH:mm:SS'}}"
       }
       {{/repeat}}
     ]
-    }
-  {{/repeat}}
 }
