@@ -1,0 +1,71 @@
+{
+    "total_pages": 5,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Kirstie株式会社",
+        "sender_name": "手簀戸 Liza",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "910-130-3071",
+        "sender_email": "liza.pace@corerobotics.biz",
+        "sender_line_user_id": "45c04436e054",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2019-10-27 06:38:43",
+        "send_at": "2017-02-23 11:26:34"
+      },
+      {
+        "id": "2",
+        "company_name": "Joslyn株式会社",
+        "sender_name": "手簀戸 Edward",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "941-344-4401",
+        "sender_email": "edward.garling@ulogica.org",
+        "sender_line_user_id": "fa73cf7fde9c",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2013-01-08 00:02:93",
+        "send_at": "2019-10-02 00:34:10"
+      },
+      {
+        "id": "3",
+        "company_name": "Richelle株式会社",
+        "sender_name": "手簀戸 Raymond",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "469-078-1198",
+        "sender_email": "raymond.neal@grafixmedia.net",
+        "sender_line_user_id": "6774b92f16d9",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2019-08-10 09:09:59",
+        "send_at": "2018-12-01 04:02:39"
+      },
+      {
+        "id": "4",
+        "company_name": "Chloe株式会社",
+        "sender_name": "手簀戸 Dannielle",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "267-070-8700",
+        "sender_email": "dannielle.oldman@coremax.net",
+        "sender_line_user_id": "bb5ca9e12dad",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2013-11-22 06:51:11",
+        "send_at": "2018-03-31 09:59:69"
+      },
+      {
+        "id": "5",
+        "company_name": "Rene株式会社",
+        "sender_name": "手簀戸 Marcus",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "030-664-5066",
+        "sender_email": "marcus.connor@sealine.biz",
+        "sender_line_user_id": "2599b7366313",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2019-03-06 19:58:70",
+        "send_at": "2019-05-07 07:03:58"
+      }
+    ]
+}
+

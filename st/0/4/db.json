@@ -1,0 +1,71 @@
+{
+    "total_pages": 5,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Miles株式会社",
+        "sender_name": "手簀戸 Hannah",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "888-799-5903",
+        "sender_email": "hannah.whitson@kancom.edu",
+        "sender_line_user_id": "4a17f235c324",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2010-12-25 15:03:41",
+        "send_at": "2012-07-16 14:37:83"
+      },
+      {
+        "id": "2",
+        "company_name": "Miles株式会社",
+        "sender_name": "手簀戸 Susana",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "947-854-5687",
+        "sender_email": "susana.cadena@fastmart.edu",
+        "sender_line_user_id": "70b138771445",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2014-12-10 02:32:59",
+        "send_at": "2014-02-14 21:37:01"
+      },
+      {
+        "id": "3",
+        "company_name": "Rosie株式会社",
+        "sender_name": "手簀戸 Anton",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "029-851-6469",
+        "sender_email": "anton.brier@sophis.eu",
+        "sender_line_user_id": "e3c2355f61ea",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2017-12-28 10:54:89",
+        "send_at": "2017-05-27 22:38:04"
+      },
+      {
+        "id": "4",
+        "company_name": "Raylene株式会社",
+        "sender_name": "手簀戸 Tyler",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "274-201-4457",
+        "sender_email": "tyler.hundt@tomiatech.me",
+        "sender_line_user_id": "a5bed636bfe8",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2011-11-22 18:36:23",
+        "send_at": "2013-11-11 15:11:94"
+      },
+      {
+        "id": "5",
+        "company_name": "Rosie株式会社",
+        "sender_name": "手簀戸 Leanne",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "950-823-6523",
+        "sender_email": "leanne.finn@opticast.name",
+        "sender_line_user_id": "d139cd5269d9",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2013-08-03 03:07:26",
+        "send_at": "2016-05-23 08:45:84"
+      }
+    ]
+}
+

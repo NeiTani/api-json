@@ -1,0 +1,71 @@
+{
+    "total_pages": 5,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Roselyn株式会社",
+        "sender_name": "手簀戸 Layla",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "042-234-8283",
+        "sender_email": "layla.higgins@pancast.xyz",
+        "sender_line_user_id": "54b8f1ec8674",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2016-10-02 16:08:40",
+        "send_at": "2016-08-23 05:42:30"
+      },
+      {
+        "id": "2",
+        "company_name": "Madelyn株式会社",
+        "sender_name": "手簀戸 Ivan",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "396-706-9013",
+        "sender_email": "ivan.muldoon@cryptonica.name",
+        "sender_line_user_id": "8adadd7c1885",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2016-07-10 08:41:90",
+        "send_at": "2017-01-05 14:56:63"
+      },
+      {
+        "id": "3",
+        "company_name": "Florance株式会社",
+        "sender_name": "手簀戸 Elaine",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "472-302-0161",
+        "sender_email": "elaine.brandt@dynalab.eu",
+        "sender_line_user_id": "8a5fc149c2fe",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2010-10-25 14:10:56",
+        "send_at": "2019-05-13 04:50:10"
+      },
+      {
+        "id": "4",
+        "company_name": "Ivan株式会社",
+        "sender_name": "手簀戸 Gavin",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "760-112-4373",
+        "sender_email": "gavin.mercer@cameratek.eu",
+        "sender_line_user_id": "f6563d68e26e",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2015-02-12 11:31:28",
+        "send_at": "2017-07-10 02:37:53"
+      },
+      {
+        "id": "5",
+        "company_name": "Jason株式会社",
+        "sender_name": "手簀戸 Rosie",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "769-640-6856",
+        "sender_email": "rosie.karst@duoserve.com",
+        "sender_line_user_id": "6d621119bffa",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2014-07-12 08:26:38",
+        "send_at": "2010-08-14 15:44:16"
+      }
+    ]
+}
+

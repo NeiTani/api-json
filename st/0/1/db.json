@@ -1,0 +1,71 @@
+{
+    "total_pages": 5,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Darrell株式会社",
+        "sender_name": "手簀戸 Hannah",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "883-529-8824",
+        "sender_email": "hannah.durrett@fortyfour.mobi",
+        "sender_line_user_id": "01c1ddc7db0a",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2019-06-04 22:19:64",
+        "send_at": "2013-01-19 22:04:88"
+      },
+      {
+        "id": "2",
+        "company_name": "Cyrus株式会社",
+        "sender_name": "手簀戸 Michelle",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "977-753-9179",
+        "sender_email": "michelle.seabury@playtech.com",
+        "sender_line_user_id": "f1ddbf474dc6",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2013-05-14 21:40:63",
+        "send_at": "2012-02-20 16:13:51"
+      },
+      {
+        "id": "3",
+        "company_name": "Roman株式会社",
+        "sender_name": "手簀戸 Elaine",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "854-962-3679",
+        "sender_email": "elaine.seabury@freecast.me",
+        "sender_line_user_id": "4d8d6409ee70",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2011-01-07 15:01:89",
+        "send_at": "2016-12-26 22:13:47"
+      },
+      {
+        "id": "4",
+        "company_name": "Alexa株式会社",
+        "sender_name": "手簀戸 Lynetta",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "222-178-8408",
+        "sender_email": "lynetta.remus@multiserv.org",
+        "sender_line_user_id": "a0f6c8716320",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2011-01-09 23:55:84",
+        "send_at": "2017-08-08 23:10:02"
+      },
+      {
+        "id": "5",
+        "company_name": "Rene株式会社",
+        "sender_name": "手簀戸 Vaughn",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "474-561-1150",
+        "sender_email": "vaughn.neal@maxcast.xyz",
+        "sender_line_user_id": "d5211aafbefd",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2019-04-11 19:45:99",
+        "send_at": "2014-11-03 12:33:04"
+      }
+    ]
+}
+
