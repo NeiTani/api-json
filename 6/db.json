@@ -1,0 +1,71 @@
+{
+    "total_pages": 10,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Neida株式会社",
+        "sender_name": "手簀戸 Darrell",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "209-347-0574",
+        "sender_email": "darrell.murphy@foretrust.mobi",
+        "sender_line_user_id": "7561609e51e9",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2012-01-21 15:02:06",
+        "send_at": "2014-05-18 03:04:73"
+      },
+      {
+        "id": "2",
+        "company_name": "Madeleine株式会社",
+        "sender_name": "手簀戸 Grace",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "431-804-2380",
+        "sender_email": "grace.connor@galcom.club",
+        "sender_line_user_id": "4d86ce1bf658",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2015-05-31 10:33:12",
+        "send_at": "2019-12-30 08:22:04"
+      },
+      {
+        "id": "3",
+        "company_name": "Gavin株式会社",
+        "sender_name": "手簀戸 Vaughn",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "179-271-1713",
+        "sender_email": "vaughn.carter@terralabs.club",
+        "sender_line_user_id": "cd77a1c8ce23",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2013-06-30 16:18:80",
+        "send_at": "2014-10-05 10:17:37"
+      },
+      {
+        "id": "4",
+        "company_name": "Alexa株式会社",
+        "sender_name": "手簀戸 Juliana",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "478-663-4131",
+        "sender_email": "juliana.woodrum@polycore.gov",
+        "sender_line_user_id": "26aeee8615d3",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2014-04-26 09:56:12",
+        "send_at": "2016-05-08 13:30:07"
+      },
+      {
+        "id": "5",
+        "company_name": "Craig株式会社",
+        "sender_name": "手簀戸 Gavin",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "620-029-0729",
+        "sender_email": "gavin.zobel@templatek.info",
+        "sender_line_user_id": "82a8b33eab3f",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2011-09-16 13:16:90",
+        "send_at": "2012-07-30 02:21:68"
+      }
+    ]
+}
+

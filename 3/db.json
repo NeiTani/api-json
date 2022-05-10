@@ -1,0 +1,71 @@
+{
+    "total_pages": 10,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Raisa株式会社",
+        "sender_name": "手簀戸 Edward",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "605-046-0213",
+        "sender_email": "edward.brier@superwire.info",
+        "sender_line_user_id": "2e67a235d3f4",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2011-02-02 23:56:46",
+        "send_at": "2018-10-11 20:17:93"
+      },
+      {
+        "id": "2",
+        "company_name": "Cecilia株式会社",
+        "sender_name": "手簀戸 Roselyn",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "141-755-7924",
+        "sender_email": "roselyn.dunham@multilingua.name",
+        "sender_line_user_id": "6598684912ac",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2010-02-12 19:54:57",
+        "send_at": "2011-05-22 14:12:98"
+      },
+      {
+        "id": "3",
+        "company_name": "Gavin株式会社",
+        "sender_name": "手簀戸 Jenna",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "767-603-4897",
+        "sender_email": "jenna.verde@baramax.club",
+        "sender_line_user_id": "fcae49d2c657",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2017-01-12 05:10:63",
+        "send_at": "2012-10-12 23:47:95"
+      },
+      {
+        "id": "4",
+        "company_name": "Elaine株式会社",
+        "sender_name": "手簀戸 Olivia",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "557-786-5279",
+        "sender_email": "olivia.chapman@celmax.org",
+        "sender_line_user_id": "6bfd8726661f",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2013-09-30 17:11:23",
+        "send_at": "2011-02-20 08:40:70"
+      },
+      {
+        "id": "5",
+        "company_name": "Raisa株式会社",
+        "sender_name": "手簀戸 Rene",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "752-134-5134",
+        "sender_email": "rene.brier@hypervision.xyz",
+        "sender_line_user_id": "77c50e1ea498",
+        "send_status": "0",
+        "complete_flg": "1",
+        "created_at": "2017-06-10 11:29:12",
+        "send_at": "2014-05-06 00:58:37"
+      }
+    ]
+}
+

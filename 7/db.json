@@ -1,0 +1,71 @@
+{
+    "total_pages": 10,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Andy株式会社",
+        "sender_name": "手簀戸 Lyn",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "053-976-1948",
+        "sender_email": "lyn.starck@hypervision.edu",
+        "sender_line_user_id": "e419ee83025e",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2017-08-07 22:37:81",
+        "send_at": "2015-11-16 10:11:91"
+      },
+      {
+        "id": "2",
+        "company_name": "Elaine株式会社",
+        "sender_name": "手簀戸 Kurt",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "981-493-8612",
+        "sender_email": "kurt.karst@protheon.net",
+        "sender_line_user_id": "e818ca264261",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2018-09-13 17:45:29",
+        "send_at": "2019-10-11 06:40:07"
+      },
+      {
+        "id": "3",
+        "company_name": "Alexis株式会社",
+        "sender_name": "手簀戸 Jocelyn",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "865-784-2426",
+        "sender_email": "jocelyn.helland@freecast.info",
+        "sender_line_user_id": "cc57800d798d",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2011-01-01 07:07:51",
+        "send_at": "2016-07-14 09:12:14"
+      },
+      {
+        "id": "4",
+        "company_name": "Selma株式会社",
+        "sender_name": "手簀戸 Myong",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "980-436-6364",
+        "sender_email": "myong.rohloff@freecast.me",
+        "sender_line_user_id": "1ac3183d41ae",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2015-04-10 04:55:32",
+        "send_at": "2013-09-26 18:44:31"
+      },
+      {
+        "id": "5",
+        "company_name": "Curtis株式会社",
+        "sender_name": "手簀戸 Lyle",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "217-470-2299",
+        "sender_email": "lyle.chapman@polycore.xyz",
+        "sender_line_user_id": "1042afb76fcf",
+        "send_status": "0",
+        "complete_flg": "1",
+        "created_at": "2015-10-02 04:26:62",
+        "send_at": "2019-06-23 02:32:89"
+      }
+    ]
+}
+

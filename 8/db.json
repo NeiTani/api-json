@@ -1,0 +1,71 @@
+{
+    "total_pages": 10,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Edward株式会社",
+        "sender_name": "手簀戸 Ian",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "694-039-2930",
+        "sender_email": "ian.castleman@sealine.edu",
+        "sender_line_user_id": "515b06a9cad2",
+        "send_status": "0",
+        "complete_flg": "1",
+        "created_at": "2014-08-20 22:00:10",
+        "send_at": "2012-06-11 06:19:71"
+      },
+      {
+        "id": "2",
+        "company_name": "Andy株式会社",
+        "sender_name": "手簀戸 Jamie",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "462-880-6364",
+        "sender_email": "jamie.caffey@smartsystems.mobi",
+        "sender_line_user_id": "9f80ca49b2c6",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2013-08-12 09:36:88",
+        "send_at": "2013-09-14 01:57:87"
+      },
+      {
+        "id": "3",
+        "company_name": "Rikki株式会社",
+        "sender_name": "手簀戸 Lyn",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "235-930-5571",
+        "sender_email": "lyn.magby@eluxa.net",
+        "sender_line_user_id": "485ee5bfc7e4",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2019-01-24 16:53:54",
+        "send_at": "2018-08-12 01:48:07"
+      },
+      {
+        "id": "4",
+        "company_name": "Michelle株式会社",
+        "sender_name": "手簀戸 Olivia",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "828-583-5574",
+        "sender_email": "olivia.webster@terrasys.club",
+        "sender_line_user_id": "84838fed4ab4",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2011-04-17 05:44:43",
+        "send_at": "2017-07-27 19:16:61"
+      },
+      {
+        "id": "5",
+        "company_name": "Jenette株式会社",
+        "sender_name": "手簀戸 Dannielle",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "258-755-0787",
+        "sender_email": "dannielle.pickering@infratouch.com",
+        "sender_line_user_id": "0bb58090491c",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2015-08-10 14:24:91",
+        "send_at": "2012-07-30 22:52:42"
+      }
+    ]
+}
+

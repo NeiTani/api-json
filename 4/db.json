@@ -1,0 +1,71 @@
+{
+    "total_pages": 10,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Jamie株式会社",
+        "sender_name": "手簀戸 Alexis",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "652-231-9027",
+        "sender_email": "alexis.durrett@logico.eu",
+        "sender_line_user_id": "75e07e1f48d3",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2010-10-08 07:55:21",
+        "send_at": "2012-05-17 06:16:56"
+      },
+      {
+        "id": "2",
+        "company_name": "Lance株式会社",
+        "sender_name": "手簀戸 Marcus",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "346-190-7564",
+        "sender_email": "marcus.bickers@duoserve.xyz",
+        "sender_line_user_id": "6b2f28909299",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2016-10-24 14:22:44",
+        "send_at": "2017-12-12 05:09:56"
+      },
+      {
+        "id": "3",
+        "company_name": "Cyrus株式会社",
+        "sender_name": "手簀戸 Joslyn",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "611-633-6081",
+        "sender_email": "joslyn.webster@connic.name",
+        "sender_line_user_id": "0fead6e05057",
+        "send_status": "0",
+        "complete_flg": "1",
+        "created_at": "2019-07-11 17:57:55",
+        "send_at": "2014-02-14 06:45:59"
+      },
+      {
+        "id": "4",
+        "company_name": "Emma株式会社",
+        "sender_name": "手簀戸 Kathy",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "472-166-7471",
+        "sender_email": "kathy.bryd@dalserve.org",
+        "sender_line_user_id": "22f4151d3476",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2014-11-01 20:14:49",
+        "send_at": "2015-07-05 22:45:67"
+      },
+      {
+        "id": "5",
+        "company_name": "Cecilia株式会社",
+        "sender_name": "手簀戸 Chloe",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "379-080-5994",
+        "sender_email": "chloe.krumm@pancast.org",
+        "sender_line_user_id": "7a091f133849",
+        "send_status": "0",
+        "complete_flg": "1",
+        "created_at": "2012-05-11 12:56:63",
+        "send_at": "2016-01-12 04:16:76"
+      }
+    ]
+}
+

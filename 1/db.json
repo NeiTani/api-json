@@ -1,0 +1,71 @@
+{
+    "total_pages": 10,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Selma株式会社",
+        "sender_name": "手簀戸 Juliana",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "243-291-3414",
+        "sender_email": "juliana.bradbury@helixicon.co",
+        "sender_line_user_id": "55116403ae98",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2014-10-16 20:09:80",
+        "send_at": "2010-03-26 00:29:32"
+      },
+      {
+        "id": "2",
+        "company_name": "Dannielle株式会社",
+        "sender_name": "手簀戸 Miles",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "378-603-9849",
+        "sender_email": "miles.rohloff@galcom.biz",
+        "sender_line_user_id": "8410cbf13a68",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2018-07-23 21:10:71",
+        "send_at": "2017-03-15 11:36:59"
+      },
+      {
+        "id": "3",
+        "company_name": "Max株式会社",
+        "sender_name": "手簀戸 Andy",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "309-046-7966",
+        "sender_email": "andy.murphy@keycast.info",
+        "sender_line_user_id": "bc1aea1134b3",
+        "send_status": "0",
+        "complete_flg": "1",
+        "created_at": "2017-02-14 18:28:63",
+        "send_at": "2016-03-28 02:55:02"
+      },
+      {
+        "id": "4",
+        "company_name": "Lloyd株式会社",
+        "sender_name": "手簀戸 Maisha",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "850-423-0562",
+        "sender_email": "maisha.hyder@solexis.name",
+        "sender_line_user_id": "4eb1ddc21283",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2011-04-26 12:55:43",
+        "send_at": "2012-10-30 05:17:01"
+      },
+      {
+        "id": "5",
+        "company_name": "Lyle株式会社",
+        "sender_name": "手簀戸 Eleanore",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "900-440-6214",
+        "sender_email": "eleanore.winter@galcom.gov",
+        "sender_line_user_id": "1490e2c3276d",
+        "send_status": "0",
+        "complete_flg": "0",
+        "created_at": "2018-04-30 11:40:37",
+        "send_at": "2016-01-13 01:09:88"
+      }
+    ]
+}
+

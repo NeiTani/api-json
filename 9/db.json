@@ -1,0 +1,71 @@
+{
+    "total_pages": 10,
+    "data": [
+      {
+        "id": "1",
+        "company_name": "Max株式会社",
+        "sender_name": "手簀戸 Stan",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "588-783-4810",
+        "sender_email": "stan.sager@multiserv.mobi",
+        "sender_line_user_id": "ac47c68df1a2",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2010-05-07 13:28:28",
+        "send_at": "2016-02-02 04:23:84"
+      },
+      {
+        "id": "2",
+        "company_name": "Lyle株式会社",
+        "sender_name": "手簀戸 Juliana",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "124-539-9071",
+        "sender_email": "juliana.milling@storex.club",
+        "sender_line_user_id": "32d9158db4f3",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2013-11-26 20:10:43",
+        "send_at": "2016-03-13 10:19:28"
+      },
+      {
+        "id": "3",
+        "company_name": "Vaughn株式会社",
+        "sender_name": "手簀戸 Anton",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "058-908-8742",
+        "sender_email": "anton.bryd@zatheon.xyz",
+        "sender_line_user_id": "eb00c780d83c",
+        "send_status": "0",
+        "complete_flg": "1",
+        "created_at": "2017-01-21 04:44:79",
+        "send_at": "2013-09-28 16:09:22"
+      },
+      {
+        "id": "4",
+        "company_name": "Theo株式会社",
+        "sender_name": "手簀戸 Stephen",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "715-044-8750",
+        "sender_email": "stephen.rhymer@dynalab.xyz",
+        "sender_line_user_id": "f0f4c5a85e53",
+        "send_status": "1",
+        "complete_flg": "0",
+        "created_at": "2010-08-30 22:08:91",
+        "send_at": "2013-03-07 01:55:28"
+      },
+      {
+        "id": "5",
+        "company_name": "Jetta株式会社",
+        "sender_name": "手簀戸 Ian",
+        "sender_line_account_name": "テストタナカ",
+        "sender_phone": "116-111-1535",
+        "sender_email": "ian.pendergast@quadtek.biz",
+        "sender_line_user_id": "80459487aa73",
+        "send_status": "1",
+        "complete_flg": "1",
+        "created_at": "2018-01-21 14:11:78",
+        "send_at": "2012-02-06 01:23:40"
+      }
+    ]
+}
+
